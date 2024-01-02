@@ -1,7 +1,5 @@
-### Hi there 👋, Rohit Shinde
-#### Full Stack Developer
-![Full Stack Developer]
 ![Header](./github-header-image.png)
+### Hi there 👋,
 I'm Rohit from Pune and i do content on Design and Development.
 I really enjoy learning languages and frameworks like React, spring boot.
 
