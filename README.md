@@ -1,9 +1,9 @@
 ![Header](./github-header-image.png)
 ### Hi there 👋,
 I'm Rohit from Pune and I do content on Design and Development.
-I really enjoy learning languages and frameworks like React and Spring boot.
+I enjoy learning languages and frameworks like React and Spring Boot.
 
-Skills: REACT / JS / HTML / CSS
+Skills: ANGULAR JS / JS / HTML / CSS
 
 - 🔭 I’m currently working on an interesting web-app project. 
 
